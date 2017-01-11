@@ -1,0 +1,14 @@
+{
+  "name": "req_head",
+  "version": "1.0.0",
+  "description": "Gets ip, user agent, and language",
+  "main": "reqHead.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DovidM",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
